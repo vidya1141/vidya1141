@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm `vidya</h1>
+<h1 align="center">Hi 👋, I'm Vidya</h1>
 <h3 align="center">A passionate fullstack developer from Amsterdam, Netherlands</h3>
 
 - 🌱 I’m currently learning **Ruby on Rails with MVC frameworks, Javascript, Stimulus JS, HTML, CSS, SCSS, RESTful architectural pattern**
