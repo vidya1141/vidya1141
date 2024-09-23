@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **vidya1141@gmail.com**
 
-- ⚡ Fun fact **I am good at Table Tennis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
